@@ -1,4 +1,4 @@
-![NanoPay Logo](images/Nanopay.jpg)
+![NanoPay Logo](Images/Nanopay.jpg)
 # Case Study for NanoPay
 
 ## Overview and Origin
@@ -52,7 +52,7 @@ money transfers B2B and ensure trackability and fast completion.
 
 ### Diagram 1 - Technologies
 
-![technologies](images/technoneeded.jpg)
+![technologies](Images/technoneeded.jpg)
 
 _____
 
