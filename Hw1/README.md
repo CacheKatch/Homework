@@ -71,9 +71,9 @@ _____
 
 [7] (https://www2.deloitte.com/us/en/pages/financial-services/articles/infocus-payments-trends.html)
 
-[8] (builtin.com/fintech/fintech-payments-companies-examples)
+[8] (https://builtin.com/fintech/fintech-payments-companies-examples)
 
-[9] (home.bluesnap.com/snap-center/blog/9-payment-trends-that-will-shape-2020/)
+[9] (https://home.bluesnap.com/snap-center/blog/9-payment-trends-that-will-shape-2020/)
 
 [10] (https://en.wikipedia.org/wiki/PayPal).
 
